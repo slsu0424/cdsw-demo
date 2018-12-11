@@ -11,4 +11,5 @@ while (args >= x):
     x = x + 1
     
 print ("Sum of the numbers is: %i." % sum)
+print ("Hello")
 cdsw.track_metric("Sum", sum)
